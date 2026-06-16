@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi There! I'm Pranav Gupta
+---
+Currently a Passout of 12th Grade learning python for the first time and trying to master it for my future goal of software engineer.
+I intitaly started my standalone coding journey in class 12 but due to boards have to leave coding
 
-<!--
-**Pranavvvgupta/Pranavvvgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🙋‍♂️ About Me! 
+- 🎓 Student Programmer: I love programming it feels like the code run in my veins
+- 🐍 Learning Python
+- 💻 Building projects and exploring software development
+- 🚀 Currently working on Python projects
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 😎 Some cool things about me!
+- Started my coding journey in python out of self interest as it was not taught in my school
+- Again started it just after my class 12 finished
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🦾 Tech Stack
+- Python
+- Git
+- GitHub
+- VS Code
+  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ## 🏆 Goals
+- Become a Software Engineer
+- Build useful projects
+- Learn Data Structures & Algorithms
